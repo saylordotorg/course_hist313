@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST313: War and American Society"
+course_description: "A detailed analysis of the wars and military conflicts that have shaped the social, political, and economic history of the United States from the colonial era to the present."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: The Cold War** <span id="8"></span> 
 *At the end of the Second World War, the democratic United States and
 the Communist Soviet Union emerged as the world’s major economic,

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST313: War and American Society"
+course_description: "A detailed analysis of the wars and military conflicts that have shaped the social, political, and economic history of the United States from the colonial era to the present."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: War and the Founding of the United States** <span
 id="1"></span> 
 *European military conflicts throughout the 18<sup>th</sup> century

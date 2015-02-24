@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST313: War and American Society"
+course_description: "A detailed analysis of the wars and military conflicts that have shaped the social, political, and economic history of the United States from the colonial era to the present."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: War and American Imperialism** <span id="5"></span> 
 *Following the Civil War, the United States became more involved in
 international affairs, particularly in Latin and South America. 

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST313: War and American Society"
+course_description: "A detailed analysis of the wars and military conflicts that have shaped the social, political, and economic history of the United States from the colonial era to the present."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: War and Westward Expansion** <span id="3"></span> 
 *American settlers’ incessant westward expansion across the North
 American continent brought the United States into conflict with Native

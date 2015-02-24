@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST313: War and American Society"
+course_description: "A detailed analysis of the wars and military conflicts that have shaped the social, political, and economic history of the United States from the colonial era to the present."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: The First World War** <span id="6"></span> 
 *Despite America’s growing involvement in world affairs in the early
 20<sup>th</sup>century, the* *American people continued to be wary of

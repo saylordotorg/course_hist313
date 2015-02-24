@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST313: War and American Society"
+course_description: "A detailed analysis of the wars and military conflicts that have shaped the social, political, and economic history of the United States from the colonial era to the present."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: The End of the Cold War** <span id="10"></span> 
 *Following a decade of détente and diplomatic engagement with the Soviet
 Union, the United States assumed a more confrontational attitude towards

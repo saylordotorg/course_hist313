@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST313: War and American Society"
+course_description: "A detailed analysis of the wars and military conflicts that have shaped the social, political, and economic history of the United States from the colonial era to the present."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "HIST313: War and American Society"
 -------------------------------------------------------
 

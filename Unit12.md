@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST313: War and American Society"
+course_description: "A detailed analysis of the wars and military conflicts that have shaped the social, political, and economic history of the United States from the colonial era to the present."
+next: ../../../
+previous: ../Unit11
+---
 **Unit 12: Final Exam** <span id="12"></span> 
 -   **Final Exam: The Saylor Foundation's HIST313 Final Exam**
     Link: The Saylor Foundation's [HIST313 Final

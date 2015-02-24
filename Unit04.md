@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST313: War and American Society"
+course_description: "A detailed analysis of the wars and military conflicts that have shaped the social, political, and economic history of the United States from the colonial era to the present."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Brother Against Brother - The American Civil War** <span
 id="4"></span> 
 *In 1861, social and political tensions that had been growing since the

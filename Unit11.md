@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST313: War and American Society"
+course_description: "A detailed analysis of the wars and military conflicts that have shaped the social, political, and economic history of the United States from the colonial era to the present."
+next: ../Unit12
+previous: ../Unit10
+---
 **Unit 11: The Global War on Terror and the New World Order** <span
 id="11"></span> 
 *During the first decade of the 21<sup>st</sup> century, the threat of

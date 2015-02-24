@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST313: War and American Society"
+course_description: "A detailed analysis of the wars and military conflicts that have shaped the social, political, and economic history of the United States from the colonial era to the present."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: The Second World War** <span id="7"></span> 
 *As war broke out in Europe at the end of the 1930s, America once again
 attempted to remain neutral.  Unofficially, President Franklin D.

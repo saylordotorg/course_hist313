@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST313: War and American Society"
+course_description: "A detailed analysis of the wars and military conflicts that have shaped the social, political, and economic history of the United States from the colonial era to the present."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Vietnam** <span id="9"></span> 
 *The Vietnam conflict grew out of America’s Cold War commitment to
 limiting the global spread of Communism.  After Vietnamese national

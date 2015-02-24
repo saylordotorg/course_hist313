@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST313: War and American Society"
+course_description: "A detailed analysis of the wars and military conflicts that have shaped the social, political, and economic history of the United States from the colonial era to the present."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: 1812 - The Second War for American Independence** <span
 id="2"></span> 
 *The American Revolution secured American political independence from
