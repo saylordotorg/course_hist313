@@ -46,7 +46,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: Wikibooks: U.S. History: “W. Bush”**
     Link: Wikibooks: *U.S. History:* “[W.
-    Bush](http://www.saylor.org/site/wp-content/uploads/2011/03/W-Bush.pdf)”
+    Bush](https://resources.saylor.org/archived/wp-content/uploads/2011/03/W-Bush.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of the webpage to better
@@ -61,7 +61,7 @@ Upon successful completion of this unit, the student will be able to:
 **11.1 The War on Terror** <span id="11.1"></span> 
 -   **Reading: The Saylor Foundation's "War on Terror"**
     Link: The Saylor Foundation's "[War on
-    Terror](http://www.saylor.org/site/wp-content/uploads/2011/06/War-on-Terror-FINAL.pdf)"
+    Terror](https://resources.saylor.org/archived/wp-content/uploads/2011/06/War-on-Terror-FINAL.pdf)"
     (PDF)  
       
      Instructions: Please read the linked material.  This reading
@@ -74,7 +74,7 @@ Upon successful completion of this unit, the student will be able to:
 **11.1.5 9-11 and the New Global Conflict** <span id="11.1.5"></span> 
 -   **Reading: The Saylor Foundation's "September 11 Attacks"**
     Link: The Saylor Foundation's "[September 11
-    Attacks](http://www.saylor.org/site/wp-content/uploads/2011/06/September-11-Attacks-FINAL.pdf)"
+    Attacks](https://resources.saylor.org/archived/wp-content/uploads/2011/06/September-11-Attacks-FINAL.pdf)"
     (PDF)  
       
      Instructions: Please read the linked material.
@@ -82,7 +82,7 @@ Upon successful completion of this unit, the student will be able to:
 **11.2 The War in Afghanistan** <span id="11.2"></span> 
 -   **Reading: Wikipedia: “War in Afghanistan (2001-Present)”**
     Link: Wikipedia: “[War in Afghanistan
-    (2001-Present)](http://www.saylor.org/site/wp-content/uploads/2011/03/War-in-Afghanistan-2001-present.pdf)”
+    (2001-Present)](https://resources.saylor.org/archived/wp-content/uploads/2011/03/War-in-Afghanistan-2001-present.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of this entry in order to
@@ -98,7 +98,7 @@ Upon successful completion of this unit, the student will be able to:
 **11.3 The Iraq War** <span id="11.3"></span> 
 -   **Reading: The Saylor Foundation's "Invasion of Iraq"**
     Link: The Saylor Foundation's "[Invasion of
-    Iraq](http://www.saylor.org/site/wp-content/uploads/2011/06/Invasion-of-Iraq-FINAL.pdf)"
+    Iraq](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Invasion-of-Iraq-FINAL.pdf)"
     (PDF)  
       
      Instructions: Please read the linked material.  This reading

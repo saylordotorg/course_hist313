@@ -38,7 +38,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: Wikibooks: US History: “World War II”**
     Link: Wikibooks: *US History:* “[World War
-    II](http://www.saylor.org/site/wp-content/uploads/2011/03/US-History_World-War-II-and-Rise-of-Atomic-Age.pdf)”
+    II](https://resources.saylor.org/archived/wp-content/uploads/2011/03/US-History_World-War-II-and-Rise-of-Atomic-Age.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of the website in order to

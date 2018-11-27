@@ -67,7 +67,7 @@ Upon successful completion of this unit, the student will be able to:
 **5.1 Gunboat Diplomacy** <span id="5.1"></span> 
 -   **Reading: Wikibooks: US History: “Progressive Era”**
     Link: Wikibooks: *US History:* “[Progressive
-    Era](http://www.saylor.org/site/wp-content/uploads/2011/03/US-History_Progressive-Era.pdf)”
+    Era](https://resources.saylor.org/archived/wp-content/uploads/2011/03/US-History_Progressive-Era.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of the website in order to
@@ -85,7 +85,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Wikibooks: US History: “Age of Invention and Gilded
     Age”**
     Link: Wikibooks: *US History:* “[Age of Invention and Gilded
-    Age](http://www.saylor.org/site/wp-content/uploads/2011/03/US-History_Age-of-Invention-and-Gilded-Age.pdf)”
+    Age](https://resources.saylor.org/archived/wp-content/uploads/2011/03/US-History_Age-of-Invention-and-Gilded-Age.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of the website in order to
@@ -128,7 +128,7 @@ Upon successful completion of this unit, the student will be able to:
     The United States as a Global Power”**
     Link: Theriskyshift.com: Pavlos Efthymiou’s [“The Emergence of The
     United States as a Global
-    Power”](http://www.saylor.org/site/wp-content/uploads/2013/05/HIST313-5.2-UnitedStatesasaGlobalPower.pdf) (PDF)  
+    Power”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/HIST313-5.2-UnitedStatesasaGlobalPower.pdf) (PDF)  
       
      Instructions: Click the link and read this essay in which the
     author discusses the emergence of the U.S. as a global power from
