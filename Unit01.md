@@ -45,7 +45,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: Wikibooks: U.S. History: “Road to Revolution”**
     Link: Wikibooks: *U.S. History:* “[Road to
-    Revolution](https://resources.saylor.org/archived/wp-content/uploads/2011/03/US-History_Road-to-Revolution.pdf)”
+    Revolution](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/03/US-History_Road-to-Revolution.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of the webpage to better
@@ -89,7 +89,7 @@ Colonies** <span id="1.2.4"></span> 
 **1.3 The American Revolution, 1776-1783** <span id="1.3"></span> 
 -   **Reading: Wikibooks: U.S. History: “American Revolution”**
     Link: Wikibooks: *U.S. History:* “[American
-    Revolution](https://resources.saylor.org/archived/wp-content/uploads/2011/03/US-History_American-Revolution.pdf)”
+    Revolution](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/03/US-History_American-Revolution.pdf)”
     (PDF)  
         
      Instructions: Please note that this reading addresses subunits 1.3
@@ -225,7 +225,7 @@ id="1.3.9"></span> 
 **1.4.1 Shays' Rebellion** <span id="1.4.1"></span> 
 -   **Reading: Wikipedia: “Shays’ Rebellion”**
     Link: Wikipedia: “[Shays’
-    Rebellion](https://resources.saylor.org/archived/wp-content/uploads/2011/03/Shays-Rebellion.pdf)”
+    Rebellion](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/03/Shays-Rebellion.pdf)”
     (PDF)  
       
      Instructions: Please read the entirety of the website in order to
@@ -240,7 +240,7 @@ id="1.3.9"></span> 
 **1.4.2 The Whiskey Rebellion** <span id="1.4.2"></span> 
 -   **Reading: Wikipedia: “The Whiskey Rebellion”**
     Link: Wikipedia: “[Whiskey
-    Rebellion](https://resources.saylor.org/archived/wp-content/uploads/2011/03/Whiskey-Rebellion.pdf)”
+    Rebellion](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/03/Whiskey-Rebellion.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of the website in order to

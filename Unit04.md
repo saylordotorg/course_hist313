@@ -41,7 +41,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: Wikibooks: US History: “Civil War”**
     Link: Wikibooks: *US History:* “[Civil
-    War](https://resources.saylor.org/archived/wp-content/uploads/2011/03/US-History_Civil-war.pdf)”
+    War](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/03/US-History_Civil-war.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of the website in order to

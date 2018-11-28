@@ -46,7 +46,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: Wikibooks: US History: “World War I”**
     Link: Wikibooks: *US History:* “[World War
-    I](https://resources.saylor.org/archived/wp-content/uploads/2011/03/US-History_World-War-I.pdf)”
+    I](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/03/US-History_World-War-I.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of the website in order to

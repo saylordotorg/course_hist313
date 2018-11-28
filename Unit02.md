@@ -45,7 +45,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Wikibooks: U.S. History: “War, Nationalism, and
     Division”**
     Link: Wikibooks: *U.S. History:* “[War, Nationalism, and
-    Division](https://resources.saylor.org/archived/wp-content/uploads/2011/03/US-History_War-Nationalism-and-Division.pdf)”
+    Division](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/03/US-History_War-Nationalism-and-Division.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of the webpage to better
@@ -118,9 +118,9 @@ Upon successful completion of this unit, the student will be able to:
     Rise of Nationalism” & “The Age of Revolutions”**
     Link: Wikibooks: *European History:* “[Napoleon Bonaparte and the
     Rise of
-    Nationalism](https://resources.saylor.org/archived/wp-content/uploads/2011/03/European-History_Napoleon-Bonaparte-and-the-Rise-of-Nationalism.pdf)”
+    Nationalism](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/03/European-History_Napoleon-Bonaparte-and-the-Rise-of-Nationalism.pdf)”
     (PDF) & “[The Age of
-    Revolutions](https://resources.saylor.org/archived/wp-content/uploads/2011/03/European-History_Age-Of-Revolutions1.pdf)”
+    Revolutions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/03/European-History_Age-Of-Revolutions1.pdf)”
     (PDF)  
         
      Instructions: These textbook chapters addresses subunits 2.1. 
