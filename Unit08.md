@@ -46,13 +46,13 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Wikibooks: US History: “Truman and the Cold War,” “The
     Fifties,” “Kennedy and Johnson,” and “Nixon and Indochina”**
     Links: Wikibooks: *US History:* “[Truman and the Cold
-    Wa](https://resources.saylor.org/archived/wp-content/uploads/2011/03/US-History_Truman-and-Cold-War.pdf)r,”
+    Wa](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/03/US-History_Truman-and-Cold-War.pdf)r,”
     (PDF) “[The
-    Fifties](https://resources.saylor.org/archived/wp-content/uploads/2011/03/US-History_Eisenhower-Civil-Rights-Fifties.pdf),”
+    Fifties](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/03/US-History_Eisenhower-Civil-Rights-Fifties.pdf),”
     (PDF) “[Kennedy and
-    Johnson](https://resources.saylor.org/archived/wp-content/uploads/2011/03/US-History_Kennedy-and-Johnson.pdf)”
+    Johnson](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/03/US-History_Kennedy-and-Johnson.pdf)”
     (PDF) and “[Nixon and
-    Indochina](https://resources.saylor.org/archived/wp-content/uploads/2011/03/US-History_Nixon-and-Indochina.pdf)”
+    Indochina](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/03/US-History_Nixon-and-Indochina.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of the websites in order to
@@ -175,7 +175,7 @@ id="8.1.4"></span> 
 **8.2 The Korean Conflict** <span id="8.2"></span> 
 -   **Reading: Wikipedia: “Korean War”**
     Link: Wikipedia: “[Korean
-    War](https://resources.saylor.org/archived/wp-content/uploads/2011/03/Korean-War.pdf)”
+    War](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/03/Korean-War.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of the website in order to
@@ -231,7 +231,7 @@ id="8.1.4"></span> 
 
 -   **Reading: Wikipedia: “Cuban Missile Crisis”**
     Link: Wikipedia*:* “[Cuban Missile
-    Crisis](https://resources.saylor.org/archived/wp-content/uploads/2011/03/Cuban-Missile-Crisis.pdf)”
+    Crisis](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/03/Cuban-Missile-Crisis.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of the website in order to
@@ -268,7 +268,7 @@ id="8.1.4"></span> 
 **8.3.3 The Bay of Pigs** <span id="8.3.3"></span> 
 -   **Reading: Wikipedia: “Bay of Pigs”**
     Link: Wikipedia: “[Bay of
-    Pigs](https://resources.saylor.org/archived/wp-content/uploads/2011/03/Bay-of-Pigs.pdf)”
+    Pigs](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/03/Bay-of-Pigs.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of the website in order to

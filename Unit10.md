@@ -42,7 +42,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: Wikibooks: US History: “Ford, Carter, and Reagan”**
     Link: Wikibooks: *US History:* “[Ford, Carter, and
-    Reagan](https://resources.saylor.org/archived/wp-content/uploads/2011/03/US-History_Ford-Carter-Reagan.pdf)”
+    Reagan](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/03/US-History_Ford-Carter-Reagan.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of the website in order to
@@ -132,7 +132,7 @@ id="10.1.4"></span> 
 id="10.3"></span> 
 -   **Reading: Wikibooks: US History: “Bush & Clinton”**
     Link: Wikibooks: *US History:* “[Bush &
-    Clinton](https://resources.saylor.org/archived/wp-content/uploads/2011/03/Bush_Clinton.pdf)”
+    Clinton](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/03/Bush_Clinton.pdf)”
     (PDF)  
         
      Instructions: Please read this webpage in its entirety.  This

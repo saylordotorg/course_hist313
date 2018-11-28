@@ -50,7 +50,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Wikibooks: US History: “Westward Expansion and Manifest
     Destiny”**
     Link: Wikibooks: *US History:* “[Westward Expansion and Manifest
-    Destiny](https://resources.saylor.org/archived/wp-content/uploads/2011/03/US-History_Westward-Expansion-and-Manifest-Destiny1.pdf)”
+    Destiny](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/03/US-History_Westward-Expansion-and-Manifest-Destiny1.pdf)”
     (PDF)  
         
      Instructions: This text addresses subunits 3.1 through 3.2.11. 
@@ -170,7 +170,7 @@ id="3.3"></span> 
 **3.3.1 Popular Sovereignty in Kansas** <span id="3.3.1"></span> 
 -   **Reading: Wikipedia: “Popular Sovereignty”**
     Link: Wikipedia: “[Popular
-    Sovereignty](https://resources.saylor.org/archived/wp-content/uploads/2011/03/Popular-sovereignty.pdf)”
+    Sovereignty](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/03/Popular-sovereignty.pdf)”
     (PDF)  
         
      Instructions: Please read the entirety of this entry in order to
@@ -185,7 +185,7 @@ id="3.3"></span> 
 
 -   **Reading: Wikipedia: “Bleeding Kansas”**
     Link: Wikipedia: “[Bleeding
-    Kansas](https://resources.saylor.org/archived/wp-content/uploads/2011/03/Bleeding-Kansas.pdf)”
+    Kansas](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/03/Bleeding-Kansas.pdf)”
     (PDF)  
         
      Instructions: This reading addresses subunits 3.3.1 through 3.3.4. 
